@@ -3,7 +3,7 @@ import re
 """
 CleanText class clears all html tags,
 special characters,
-extra space and change upper letters to lower letters.
+extra space and changes upper letters to lower letters.
 For Arabic language
 It changes أآإ to ا
 and  ة  to  ه
